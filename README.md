@@ -1,4 +1,4 @@
-# Co-Driven Recognition of Chinese Semantic Entailment via the Fusion of Transformer and HowNet Sememes Knowledge
+# Co-Driven Recognition of Chinese Semantic Matching via the Fusion of Transformer and HowNet Sememes Knowledge
 
 ---
  This is the code of our paper underreview for ESWC-2023, there are some explanations for it
