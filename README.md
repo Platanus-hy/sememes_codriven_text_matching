@@ -1,7 +1,7 @@
 # Co-Driven Recognition of Chinese Semantic Entailment via the Fusion of Transformer and HowNet Sememes Knowledge
 
 ---
- This is the code of our paper for ESWC-2023, there are some explanations for it
+ This is the code of our paper underreview for ESWC-2023, there are some explanations for it
 ---
 1. For non-pretraining models, you need to run Pre-processing.py to generate data before running the models. For pretaining models, please download BERT models before you run hownet_bert.py.
 2. We just take BERT model and BQ dataset for example, it is easy to expand to other text semantic matching datasets or replace with other pretraining models.
